@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct 25 14:35:19 2021
+# Process ID: 18920
+# Current directory: D:/========课程类/软件工程/Digital Logic/lab0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2232 D:\========课程类\软件工程\Digital Logic\lab0\lab0.xpr
+# Log file: D:/========课程类/软件工程/Digital Logic/lab0/vivado.log
+# Journal file: D:/========课程类/软件工程/Digital Logic/lab0\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/========课程类/软件工程/Digital Logic/lab0/lab0.xpr}
+update_compile_order -fileset sources_1
+open_run impl_1

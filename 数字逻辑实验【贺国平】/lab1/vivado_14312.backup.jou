@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Sep 28 14:53:32 2019
+# Process ID: 14312
+# Current directory: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20220 D:\数字逻辑工作\本科生实验\fpga_labs_sp18\lab0\lab0.xpr
+# Log file: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/vivado.log
+# Journal file: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0\vivado.jou
+#-----------------------------------------------------------sstart_guiopen_project D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/lab0.xpr
+update_compile_order -fileset sources_1
+

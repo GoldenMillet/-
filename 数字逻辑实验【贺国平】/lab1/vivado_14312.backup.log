@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Sep 28 14:53:32 2019
+# Process ID: 14312
+# Current directory: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20220 D:\数字逻辑工作\本科生实验\fpga_labs_sp18\lab0\lab0.xpr
+# Log file: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/vivado.log
+# Journal file: D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0\vivado.jou
+#-----------------------------------------------------------sstart_guiopen_project D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/lab0.xpr
+IINFO: [Project 1-313] Project file moved from 'C:/Users/za/fpga_labs_sp18/lab0' since last save.CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/lab0.srcs/constrs_1/new/ml505top.xdc', nor could it be found using path 'C:/Users/za/fpga_labs_sp18/lab0/lab0.srcs/constrs_1/new/ml505top.xdc'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'D:/数字逻辑工作/本科生实验/fpga_labs_sp18/lab0/lab0.ip_user_files', nor could it be found using path 'C:/Users/za/fpga_labs_sp18/lab0/lab0.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+IINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/software/Vivado/2018.2/data/ip'.open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:15 . Memory (MB): peak = 832.336 ; gain = 119.023
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Sep 28 17:02:53 2019...
+
